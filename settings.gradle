@@ -1,2 +1,2 @@
 include ':app', ':stetho'
-rootProject.name='test'
+rootProject.name='stetho-no-op'
